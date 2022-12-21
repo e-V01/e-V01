@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @e-V01
-- 👀 I’m interested in AI/ML
-- 🌱 I’m currently learning python
+- 👀 I’m interested in iOS,
+- 🌱 I’m currently learning Swift
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me kuhta1488atgmail.com
 
