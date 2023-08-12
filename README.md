@@ -2,7 +2,8 @@
 - 👀 I’m interested in iOS,
 - 🌱 I’m currently learning Swift
 - 💞️ I’m looking to collaborate on SwiftUI projects
-- 📫 How to reach me kuhta1488atgmail.com
+- 📫 How to reach me iosdevyuriyk@gmail.com
+
 
 <!---
 e-V01/e-V01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
