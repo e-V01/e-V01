@@ -8,6 +8,8 @@ Welcome to My GitHub! 👋
 
 🤝 Collaboration Calls: If you have SwiftUI projects on your radar, count me in! I'm actively seeking passionate collaborators who share a vision for creating beautiful, user-friendly apps.
 
-✉️ Reach Out: Got a project in mind, an idea to discuss, or just want to chat about iOS development? Reach out to me at iosdevyuriyk@gmail.com. Let's connect and bring incredible iOS innovations to life.
+✉️ Reach Out: Got a project in mind, an idea to discuss, or just want to chat about iOS development? 
+Reach out to me at iosdevyuriyk@gmail.com. 
+Let's connect and bring incredible iOS innovations to life.
 
 Join me in the exciting world of iOS development, where creativity knows no bounds. Together, we can shape the future of mobile technology. Let's turn ideas into reality!
